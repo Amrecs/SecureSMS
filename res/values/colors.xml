@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主界面 -->
+    <color name="topbar_bg">#FFD600</color>
+    <color name="main_yellow">#FFD600</color>
+    <color name="main_orange">#F88000</color>
+    <color name="ibtn_click_src_dark">#1000</color>
+    <!-- 上面是顶部颜色 -->
+    <color name="topbar_bg_post">#f7f7f7</color>
+    <color name="topbar_bg_1">#FFA478</color>
+    <color name="topbar_bg_2">#F2F3F3</color>
+    <color name="topbar_bg_3">#F2F3F3</color>
+    <color name="topbar_bg_4">#FFAFB8</color>
+    <color name="topbar_bg_5">#FFA478</color>
+    <color name="topbar_text_1">#FFF</color>
+    <color name="topbar_text_2">#000</color>
+    <color name="topbar_text_3">#000</color>
+    <color name="topbar_text_4">#FFF</color>
+    <color name="topbar_text_5">#FFF</color>
+    <color name="tab_center_bg">#fcfcfc</color>
+    <color name="tab_line_dark">#eeeeee</color>
+    <color name="tab_line_light">#FFA478</color>
+    <color name="tab_btn_dark">#454545</color>
+    <color name="tab_btn_light">#FFD600</color>
+    <color name="tab_btn_bg_dark">#fcfcfc</color>
+    <color name="center_bg">#FFF</color>
+    <color name="main_btn_text_light">#CCC</color>
+    <color name="main_btn_text_dark">#FFF</color>
+    <!-- Start界面 -->
+    <color name="welcome_bg">#FFF2A3</color>
+    <color name="start_bg">#F2F2F2</color>
+    <color name="start_topbar_bg">#FFD600</color>
+    <color name="start_btn_bg_light">#CCB000</color>
+    <color name="start_btn_bg_dark">#FFD600</color>
+    <color name="start_btn_dia_bg_dark">#888</color>
+    <color name="start_btn_dia_bg_light">#CCC</color>
+    <color name="start_btn_text_blue">#FFD600</color>
+    <color name="start_btn_text_light">#F88000</color>
+    <color name="start_forget_bg">#88e9dbd1</color>
+    <color name="firstrun_btn_bg_light">#ebcf96</color>
+    <color name="firstrun_btn_bg_dark">#ffe1a3</color>
+    <!-- 更多界面 -->
+    <color name="btn_bg_orange_normal">#FFD600</color>
+    <color name="btn_bg_orange_press">#F88000</color>
+    <!-- 消息界面 -->
+    <color name="msg_head_circle">#8FFF</color>
+    <color name="msg_btn_text_light">#CCCCCC</color>
+    <color name="msg_btn_text_dark">#FFFFFF</color>
+    <!-- 消息界面-Dialog -->
+    <color name="dialog_btn_press">#81cfeb</color>
+    <color name="dialog_btn_normal">#ffffff</color>
+    <color name="dialog_divider">#bbbbbb</color>
+    <color name="msg_info_divider">#cccccc</color>
+    <!-- slide page -->
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="line_divider">#ebebeb</color>
+    <color name="yellow">#ffd600</color>
+    <color name="dialog_textColor">#D4D4D4</color>
+    <color name="text_sort_color">#99d71f1b</color>
+    <!-- 常用颜色 -->
+    <color name="no_color">#0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000</color>
+    <color name="red">#ca0000</color>
+    <color name="blue">#00F</color>
+    <color name="white">#FFF</color>
+    <color name="orange">#FF9E64</color>
+    <color name="light_blue">#54c1e8</color>
+    <color name="light_gray">#EEE</color>
+    <color name="dark_gray">#444</color>
+    <color name="dark_white">#CCC</color>
+    <color name="label_color">#ebebeb</color>
+    <!--Request-->
+    <color name="text_color_gray">#dadada</color>
+    <color name="btn_normal">#0066cc</color>
+    <color name="btn_disable">#99c2eb</color>
+    <color name="btn_pressed">#1a5992</color>
+    <color name="tips_bg">#2aa3e9</color>
+    <color name="chat_send_button_disabled">#949495</color>
+    <color name="chat_send_button_enabled">#2fa9ff</color>
+    <color name="session_through_content">#888888</color>
+    <color name="text_color_light_gray">#777777</color>
+    <!-- user profile -->
+    <color name="bg_gray">#ebeced</color>
+    <color name="gray">#999999</color>
+    <color name="divider_light_gray">#ecedee</color>
+    <color name="text_color_black">#545759</color>
+    <color name="waveform_selected_right">#ffffff</color>
+    <color name="waveform_unselected_right">#8bd6f8</color>
+    <color name="waveform_selected_left">#545759</color>
+    <color name="waveform_unselected_left">#aeb0b1</color>
+    <color name="transparent_red">#99d71f1b</color>
+    <!-- advertise -->
+    <color name="ad_background_yellow">#FFD600</color>
+    <color name="ad_background_gray">#F8F8F8</color>
+    <color name="ad_text_gray">#949494</color>
+    <color name="dynamic_detail_gray">#EBEBEB</color>
+    <color name="dynamic_post_line_gray">#b3b3b3</color>
+    <color name="picture_content_text_orange">#e74d1e</color>
+    <color name="picture_content_text_gray">#666666</color>
+    <!-- homepage-->
+    <color name="homepage_background_yellow">#FFD600</color>
+    <color name="homepage_text_gray">#949494</color>
+    <color name="homepage_request_label_orange">#e6b453</color>
+    <color name="homepage_request_label_text_orange">#d9752a</color>
+    <color name="homepage_request_label_text_gray">#ebeced</color>
+    <color name="homepage_request_price_gray">#f5b084</color>
+    <!--More-->
+    <color name="more_line_color">#cccccc</color>
+    <color name="more_bg_nor">#ffffff</color>
+    <color name="more_bg_p">#f5f5f5</color>
+
+</resources>
